@@ -7,10 +7,14 @@ export default function ShoppingList({ currentList, currentHash }) {
   const [shoppingList, setShoppingList] = useState(currentList);
   const [hash, setHash] = useState(currentHash);
 
-  const generateList = async () => {
+  const generateList = async (listName) => {
     try {
       const response = await fetch('/api/generateShoppingList', {
         method: 'POST',
+        headers: {
+        'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({'pathName':listName})
       });
       const data = await response.json();
       setShoppingList(data.list);
@@ -31,7 +35,7 @@ export default function ShoppingList({ currentList, currentHash }) {
       <h1 style={{ textAlign: 'center' }}>Shopping List</h1>
       
       <button
-        onClick={generateList}
+        onClick={() => generateList('meals.json')}
         style={{
           backgroundColor: '#007BFF',
           color: 'white',
@@ -42,7 +46,22 @@ export default function ShoppingList({ currentList, currentHash }) {
           marginBottom: '20px'
         }}
       >
-        Generate New List
+        Generate New List for this week
+      </button>
+      <a>    </a>
+      <button
+        onClick={() => generateList('next_week.json')}
+        style={{
+          backgroundColor: '#007BFF',
+          color: 'white',
+          padding: '10px 20px',
+          border: 'none',
+          borderRadius: '5px',
+          cursor: 'pointer',
+          marginBottom: '20px'
+        }}
+      >
+        Generate New List for next week
       </button>
 
       <div>

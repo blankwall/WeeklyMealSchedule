@@ -14,8 +14,11 @@ export default async function handler(req, res) {
       apiKey: process.env.ANTHROPIC_API_KEY,
     });
 
+    const { pathName } = req.body; // Get the day and additionalData from the request body
+
+    console.log(`Generating List for ${pathName}`)
     // Path to the meals data, shopping list, and hash file
-    const mealsPath = path.join(process.cwd(), 'data', 'meals.json');
+    const mealsPath = path.join(process.cwd(), 'data', pathName);
     const shoppingListPath = path.join(process.cwd(), 'data', 'shopping_list.json');
     const hashPath = path.join(process.cwd(), 'data', 'shopping_list_hash.txt');
 
