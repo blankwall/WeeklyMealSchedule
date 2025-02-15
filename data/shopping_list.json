@@ -1,0 +1,161 @@
+{
+  "fresh_items": [
+    {
+      "name": "Chicken",
+      "quantity": "2 lbs",
+      "notes": "For Cheesy Chicken Pasta Casserole and Asian Chicken Lettuce Wraps"
+    },
+    {
+      "name": "Eggs",
+      "quantity": "1 dozen",
+      "notes": "For Breakfast for Dinner: Pancake & Egg Extravaganza"
+    },
+    {
+      "name": "Cheese",
+      "quantity": "2 lbs",
+      "notes": "For Cheesy Chicken Pasta Casserole and Homemade Pizza Party"
+    },
+    {
+      "name": "Ground beef/turkey",
+      "quantity": "1 lb",
+      "notes": "For Meatball Subs Italian"
+    },
+    {
+      "name": "Shrimp",
+      "quantity": "1 lb",
+      "notes": "For Coconut Shrimp Taco Night"
+    },
+    {
+      "name": "Beef",
+      "quantity": "3 lbs",
+      "notes": "For Honey Mustard Pot Roast"
+    },
+    {
+      "name": "Broccoli",
+      "quantity": "2 lbs",
+      "notes": "For Roasted broccoli with parmesan sprinkle"
+    },
+    {
+      "name": "Lettuce",
+      "quantity": "1 head",
+      "notes": "For Asian Chicken Lettuce Wraps"
+    },
+    {
+      "name": "Mango",
+      "quantity": "2 lbs",
+      "notes": "For Coconut Shrimp Taco Night"
+    },
+    {
+      "name": "Potatoes",
+      "quantity": "5 lbs",
+      "notes": "For Roasted Garlic Parmesan Potato Wedges and Creamy mashed potatoes"
+    },
+    {
+      "name": "Carrots",
+      "quantity": "3 lbs",
+      "notes": "For Roasted carrots and Honey Mustard Pot Roast"
+    },
+    {
+      "name": "Cilantro",
+      "quantity": "1 bunch",
+      "notes": "For Coconut Shrimp Taco Night and Cilantro-lime rice"
+    },
+    {
+      "name": "Garlic",
+      "quantity": "1 head",
+      "notes": "For Roasted Garlic Parmesan Potato Wedges and Garlic bread"
+    },
+    {
+      "name": "Onions",
+      "quantity": "3 lbs",
+      "notes": "For various recipes"
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": "4 lbs",
+      "notes": "For Meatball Subs Italian and Homemade Pizza Party"
+    },
+    {
+      "name": "Fruit",
+      "quantity": "5 lbs",
+      "notes": "For Fresh fruit salad"
+    }
+  ],
+  "pantry_items": [
+    {
+      "name": "Pasta",
+      "quantity": "2 lbs",
+      "notes": "For Cheesy Chicken Pasta Casserole and Meatball Subs Italian"
+    },
+    {
+      "name": "Pancake mix",
+      "quantity": "1 box",
+      "notes": "For Breakfast for Dinner: Pancake & Egg Extravaganza"
+    },
+    {
+      "name": "Bacon",
+      "quantity": "1 lb",
+      "notes": "For Breakfast for Dinner: Pancake & Egg Extravaganza"
+    },
+    {
+      "name": "Breadcrumbs",
+      "quantity": "1 cup",
+      "notes": "For Meatball Subs Italian"
+    },
+    {
+      "name": "Marinara sauce",
+      "quantity": "2 jars",
+      "notes": "For Meatball Subs Italian and Homemade Pizza Party"
+    },
+    {
+      "name": "Teriyaki sauce",
+      "quantity": "1 bottle",
+      "notes": "For Asian Chicken Lettuce Wraps"
+    },
+    {
+      "name": "Coconut flakes",
+      "quantity": "2 cups",
+      "notes": "For Coconut Shrimp Taco Night"
+    },
+    {
+      "name": "Tortillas",
+      "quantity": "2 packs",
+      "notes": "For Coconut Shrimp Taco Night and Homemade Pizza Party"
+    },
+    {
+      "name": "Black beans",
+      "quantity": "2 cans",
+      "notes": "For Coconut Shrimp Taco Night"
+    },
+    {
+      "name": "Rice",
+      "quantity": "4 lbs",
+      "notes": "For Asian Chicken Lettuce Wraps and Coconut Shrimp Taco Night"
+    },
+    {
+      "name": "Honey",
+      "quantity": "1 jar",
+      "notes": "For Honey Mustard Pot Roast"
+    },
+    {
+      "name": "Mustard",
+      "quantity": "1 jar",
+      "notes": "For Honey Mustard Pot Roast"
+    },
+    {
+      "name": "Bread",
+      "quantity": "2 loaves",
+      "notes": "For Garlic bread and Meatball Subs Italian"
+    },
+    {
+      "name": "Salad dressing",
+      "quantity": "2 bottles",
+      "notes": "For Caesar salad"
+    },
+    {
+      "name": "Spices and herbs",
+      "quantity": "1 assortment",
+      "notes": "For various recipes"
+    }
+  ]
+}

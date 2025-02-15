@@ -1,0 +1,58 @@
+[
+  {
+    "day": "Monday",
+    "meal": "Grilled Chicken and Veggie Stir-Fry",
+    "description": "A colorful stir-fry with grilled chicken, bell peppers, broccoli, and carrots. Served with a savory soy sauce glaze.",
+    "side": "Brown Rice",
+    "protein": "Grilled Chicken",
+    "rating": 5
+  },
+  {
+    "day": "Tuesday",
+    "meal": "Beef and Bean Tacos",
+    "description": "Ground beef seasoned with taco spices, served in soft tortillas with lettuce, cheese, and salsa.",
+    "side": "Corn on the Cob",
+    "protein": "Ground Beef",
+    "rating": 5
+  },
+  {
+    "day": "Wednesday",
+    "meal": "Turkey Meatballs with Spaghetti",
+    "description": "Juicy turkey meatballs in marinara sauce, served with spaghetti and a sprinkle of parmesan cheese.",
+    "side": "Garlic Bread",
+    "protein": "Turkey Meatballs",
+    "rating": 5
+  },
+  {
+    "day": "Thursday",
+    "meal": "Chicken Pot Pie",
+    "description": "A comforting chicken and vegetable pot pie with a flaky crust",
+    "side": "Roasted Carrots and Potatoes",
+    "protein": "Chicken",
+    "rating": 5
+  },
+  {
+    "day": "Friday",
+    "meal": "Fish Tacos with Mango Salsa",
+    "description": "Lightly seasoned white fish fillets, served in soft tortillas with a refreshing mango salsa.",
+    "side": "Cilantro Rice",
+    "protein": "White Fish",
+    "rating": 5
+  },
+  {
+    "day": "Saturday",
+    "meal": "Baked Chicken Parmesan",
+    "description": "Crispy baked chicken breasts topped with marinara sauce and melted mozzarella cheese, served over spaghetti.",
+    "side": "Roasted Vegetables",
+    "protein": "Chicken Breast",
+    "rating": 5
+  },
+  {
+    "day": "Sunday",
+    "meal": "Shrimp Stir-Fry with Vegetables",
+    "description": "Shrimp sautéed with a mix of bell peppers, snap peas, and onions, served in a tangy stir-fry sauce.",
+    "side": "Steamed Rice",
+    "protein": "Shrimp",
+    "rating": 5
+  }
+]

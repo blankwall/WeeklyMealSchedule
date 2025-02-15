@@ -1,0 +1,51 @@
+/* Header.module.css */
+.header {
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.navContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px; /* Equivalent to h-16 */
+}
+
+.navLinks {
+  display: flex;
+  gap: 2rem;
+}
+
+.navLink {
+  font-size: 1rem;
+  font-weight: 500;
+  padding-top: 0.25rem;
+  border-bottom: 2px solid transparent;
+  text-decoration: none;
+  color: #6b7280; /* gray-500 */
+  transition: all 0.3s ease-in-out;
+  transform: scale(1); /* Start at normal size */
+}
+
+.navLink:hover {
+  border-color: #d1d5db; /* gray-300 */
+  color: #4b5563; /* gray-700 */
+  font-weight: 700; /* Bold text */
+  transform: scale(1.1); /* Bubbly effect - enlarge slightly */
+}
+
+.activeLink {
+  border-color: #3b82f6; /* blue-500 */
+  color: #111827; /* gray-900 */
+  font-weight: 700; /* Bold text for active link */
+}
+
+.navLink, .activeLink {
+  transition: all 0.3s ease-in-out; /* Smooth transition for hover and active states */
+}

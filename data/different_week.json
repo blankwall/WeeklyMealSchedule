@@ -1,0 +1,58 @@
+[
+  {
+    "day": "Monday",
+    "meal": "BBQ Ranch Chicken Sliders",
+    "description": "Mini sandwiches filled with shredded BBQ chicken, topped with ranch slaw and melted cheese. Easy for small hands to hold and packed with flavor.",
+    "side": "Sweet potato fries and corn on the cob",
+    "protein": "Chicken",
+    "rating": 5
+  },
+  {
+    "day": "Tuesday",
+    "meal": "Build-Your-Own Burrito Bowls",
+    "description": "Interactive dinner with seasoned ground turkey, warm rice, and an array of toppings including cheese, lettuce, and mild salsa. Kids can customize their bowls.",
+    "side": "Mexican-style corn and black beans",
+    "protein": "Ground Turkey, Cheese",
+    "rating": 5
+  },
+  {
+    "day": "Wednesday",
+    "meal": "Creamy Mac and Cheese with Hidden Veggies",
+    "description": "Homemade macaroni and cheese sauce blended with cauliflower puree and topped with crispy breadcrumbs. Served with grilled chicken on the side.",
+    "side": "Steamed broccoli and garlic bread",
+    "protein": "Chicken, Cheese",
+    "rating": 5
+  },
+  {
+    "day": "Thursday",
+    "meal": "Mini Meatloaf Cupcakes",
+    "description": "Individual-sized meatloaves shaped like cupcakes, topped with mashed potato 'frosting' and cheese. Fun presentation kids love.",
+    "side": "Glazed carrots and green beans",
+    "protein": "Ground Beef",
+    "rating": 5
+  },
+  {
+    "day": "Friday",
+    "meal": "Crispy Baked Fish Sticks",
+    "description": "Homemade panko-crusted cod fingers with a light lemon-herb seasoning. Served with tartar sauce for dipping.",
+    "side": "Roasted potato wedges and coleslaw",
+    "protein": "Cod",
+    "rating": 5
+  },
+  {
+    "day": "Saturday",
+    "meal": "Spaghetti and Meatball Station",
+    "description": "Classic spaghetti with choice of traditional beef meatballs or chicken meatballs, served with garlic bread and various sauce options.",
+    "side": "Caesar salad and cheesy garlic knots",
+    "protein": "Ground Beef, Ground Chicken",
+    "rating": 5
+  },
+  {
+    "day": "Sunday",
+    "meal": "Sheet Pan Ranch Chicken",
+    "description": "Ranch-seasoned chicken breasts baked with colorful vegetables on one pan. Simple, flavorful, and easy cleanup.",
+    "side": "Roasted potatoes and honey-glazed carrots",
+    "protein": "Chicken",
+    "rating": 5
+  }
+]

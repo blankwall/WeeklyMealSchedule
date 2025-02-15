@@ -1,0 +1,58 @@
+[
+  {
+    "day": "Monday",
+    "meal": "Baked Ziti with Spinach and Ricotta",
+    "description": "Layers of pasta, creamy ricotta, spinach, and a flavorful tomato sauce, topped with melted mozzarella cheese.",
+    "side": "Garlic breadsticks and a fresh green salad",
+    "protein": "Ricotta Cheese",
+    "rating": 5
+  },
+  {
+    "day": "Tuesday",
+    "meal": "Lentil and Sweet Potato Curry",
+    "description": "Aromatic curry with tender lentils, sweet potatoes, and a blend of Indian spices. Served over basmati rice.",
+    "side": "Naan bread and mango chutney",
+    "protein": "Lentils",
+    "rating": 5
+  },
+  {
+    "day": "Wednesday",
+    "meal": "Veggie Stir-Fry with Tofu",
+    "description": "Colorful mix of fresh vegetables and crispy tofu in a savory soy-based sauce, served over steamed rice.",
+    "side": "Steamed edamame and sesame-garlic roasted broccoli",
+    "protein": "Tofu",
+    "rating": 5
+  },
+  {
+    "day": "Thursday",
+    "meal": "Quinoa and Black Bean Burrito Bowls",
+    "description": "Flavorful quinoa and black bean mixture, topped with avocado, shredded cheese, salsa, and a dollop of Greek yogurt.",
+    "side": "Tortilla chips and fresh pico de gallo",
+    "protein": "Black Beans, Quinoa",
+    "rating": 5
+  },
+  {
+    "day": "Friday",
+    "meal": "Baked Salmon with Lemon-Dill Sauce",
+    "description": "Tender baked salmon fillets served with a creamy lemon-dill sauce, accompanied by roasted asparagus.",
+    "side": "Roasted sweet potato wedges and a side salad",
+    "protein": "Salmon",
+    "rating": 5
+  },
+  {
+    "day": "Saturday",
+    "meal": "Vegetable Fried Rice",
+    "description": "Fluffy fried rice loaded with a variety of fresh vegetables, scrambled eggs, and a touch of soy sauce.",
+    "side": "Steamed edamame and fortune cookies",
+    "protein": "Eggs",
+    "rating": 5
+  },
+  {
+    "day": "Sunday",
+    "meal": "Grilled Portobello Mushroom Burgers",
+    "description": "Juicy grilled portobello mushroom caps served on whole-wheat buns with all the classic burger toppings.",
+    "side": "Baked sweet potato fries and a fresh fruit salad",
+    "protein": "Portobello Mushrooms",
+    "rating": 5
+  }
+]

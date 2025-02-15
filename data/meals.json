@@ -1,0 +1,58 @@
+[
+  {
+    "day": "Monday",
+    "meal": "Cheesy Chicken Pasta Casserole",
+    "description": "Creamy pasta bake with tender chicken, mixed vegetables, and a golden cheese topping. Kid-friendly and packed with hidden nutrition.",
+    "side": "Roasted broccoli with parmesan sprinkle and garlic bread",
+    "protein": "Chicken, Cheese",
+    "rating": 3
+  },
+  {
+    "day": "Tuesday",
+    "meal": "Breakfast for Dinner: Pancake & Egg Extravaganza",
+    "description": "Fluffy buttermilk pancakes with customizable toppings, scrambled eggs, and crispy bacon. Interactive meal where kids can design their own plates.",
+    "side": "Fresh fruit salad and hash browns",
+    "protein": "Eggs, Bacon",
+    "rating": 5
+  },
+  {
+    "day": "Wednesday",
+    "meal": "Cheeseburger & Tater Tot Bites",
+    "description": "Homemade cheeseburgers with crispy tater tots on the side, perfect for a family-friendly meal!",
+    "side": "Tater Tots",
+    "protein": "Hamburgers",
+    "rating": 5
+  },
+  {
+    "day": "Thursday",
+    "meal": "Asian Chicken Lettuce Wraps",
+    "description": "Teriyaki-glazed ground chicken served with crisp lettuce leaves, rice, and an array of fun toppings like crispy wontons and green onions.",
+    "side": "Vegetable fried rice",
+    "protein": "Ground Chicken",
+    "rating": 4
+  },
+  {
+    "day": "Friday",
+    "meal": "Coconut Shrimp Taco Night",
+    "description": "Crispy coconut-crusted shrimp in soft tortillas with a mild mango salsa. Colorful, crunchy, and fun to assemble.",
+    "side": "Black beans and cilantro-lime rice",
+    "protein": "Shrimp",
+    "rating": 5
+  },
+  {
+    "day": "Saturday",
+    "meal": "Homemade Pizza Party",
+    "description": "Individual pizza crusts with various toppings. Kids can create their own masterpiece with pre-chopped ingredients.",
+    "side": "Caesar salad and garlic knots",
+    "protein": "Chicken, Cheese",
+    "rating": 5
+  },
+  {
+    "day": "Sunday",
+    "meal": "Honey Mustard Pot Roast",
+    "description": "Tender slow-cooked beef roast with a sweet and tangy honey mustard glaze. Served with roasted seasonal vegetables.",
+    "side": "Creamy mashed potatoes and roasted carrots",
+    "protein": "Beef",
+    "rating": 5
+  }
+]

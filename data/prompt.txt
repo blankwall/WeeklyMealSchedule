@@ -1,0 +1,15 @@
+Iam a fit 34 year old father of 3, I enjoy high protein meals, kid friendly is necessary. Really only vegetarian or fish on Friday meat every other day. Can you help me plan dinner for the week. We are a family of 5 and need kid friendly options. We eat vegetarian or fish on Fridays.  Only do fish/shrimp On Fridays. Start the meal for tomorrow, monday. Ensure each meal has a protein option even if on the side. 
+
+%s
+
+You create week 3
+Give it to me in this format with all default ratings set to 5. Do not give me anything else other than the data in the below format. Ensure it can be loaded via python3 json.loads
+
+{
+ "day": "The Day",
+ "meal": "Meal title",
+ "description": "Meal Description",
+ "side": "Meal side",
+ "protein": "protein choice",
+ "rating": 5
+}

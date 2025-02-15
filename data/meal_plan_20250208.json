@@ -1,0 +1,58 @@
+[
+  {
+    "day": "Monday",
+    "meal": "Baked Ziti with Spinach and Ricotta",
+    "description": "Layers of pasta, creamy ricotta, spinach, and melted mozzarella cheese. A comforting and kid-friendly vegetarian dish.",
+    "side": "Garlic bread and a simple green salad",
+    "protein": "Ricotta Cheese",
+    "rating": 5
+  },
+  {
+    "day": "Tuesday",
+    "meal": "Lentil and Sweet Potato Curry",
+    "description": "Fragrant curry with tender lentils, roasted sweet potatoes, and a blend of aromatic spices. Served over basmati rice.",
+    "side": "Naan bread and mango chutney",
+    "protein": "Lentils",
+    "rating": 5
+  },
+  {
+    "day": "Wednesday",
+    "meal": "Quinoa and Black Bean Burrito Bowls",
+    "description": "Fluffy quinoa, seasoned black beans, avocado, shredded cheese, and fresh toppings in a customizable build-your-own-bowl format.",
+    "side": "Tortilla chips and salsa",
+    "protein": "Black Beans, Quinoa",
+    "rating": 5
+  },
+  {
+    "day": "Thursday",
+    "meal": "Vegetable Stir-Fry with Tofu",
+    "description": "Crispy tofu and a colorful medley of fresh vegetables saut\u00e9ed in a savory soy-based sauce. Served over steamed rice.",
+    "side": "Steamed edamame",
+    "protein": "Tofu",
+    "rating": 5
+  },
+  {
+    "day": "Friday",
+    "meal": "Grilled Salmon with Mango Salsa",
+    "description": "Flaky salmon fillets topped with a vibrant and refreshing mango salsa. Served with roasted sweet potato wedges.",
+    "side": "Roasted asparagus",
+    "protein": "Salmon",
+    "rating": 5
+  },
+  {
+    "day": "Saturday",
+    "meal": "Vegetable Fried Rice",
+    "description": "Fluffy rice stir-fried with a variety of fresh vegetables, scrambled eggs, and a touch of soy sauce. A one-dish meal the whole family will enjoy.",
+    "side": "Steamed edamame and fortune cookies",
+    "protein": "Eggs",
+    "rating": 5
+  },
+  {
+    "day": "Sunday",
+    "meal": "Baked Zucchini Boats",
+    "description": "Hollowed-out zucchini halves filled with a savory mixture of ground turkey, tomatoes, and melted cheese. A healthy and delicious twist on stuffed peppers.",
+    "side": "Garlic bread and a simple green salad",
+    "protein": "Ground Turkey, Cheese",
+    "rating": 5
+  }
+]

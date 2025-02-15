@@ -1,0 +1,8 @@
+# Run at 8 AM every Friday
+0 8 * * 5 /usr/bin/python3 /path/to/meal_planner.py
+
+# Run at 9 AM every Saturday
+0 9 * * 6 /usr/bin/python3 /path/to/meal_planner.py
+
+# Run at 10 AM every Sunday
+0 10 * * 0 /usr/bin/python3 /path/to/meal_planner.py

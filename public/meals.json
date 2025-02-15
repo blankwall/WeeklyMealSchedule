@@ -1,0 +1,52 @@
+[
+  {
+    "day": "Monday",
+    "title": "Stuffed Shells with Meat Sauce",
+    "description": "Jumbo pasta shells stuffed with ricotta, spinach (optional), and mozzarella, topped with a hearty meat sauce made from ground beef or turkey.",
+    "side": "Side: Fresh garlic bread and a simple side salad with Italian dressing.",
+    "protein": "Protein: Ground beef/turkey in the meat sauce."
+  },
+  {
+    "day": "Tuesday",
+    "title": "Chicken Quesadillas",
+    "description": "Soft flour tortillas filled with rotisserie chicken, cheese, and veggies. Serve with sour cream, guacamole, or salsa.",
+    "side": "Side: Mexican-style rice and corn.",
+    "protein": "Protein: Chicken."
+  },
+  {
+    "day": "Wednesday",
+    "title": "Sloppy Joes",
+    "description": "A family favorite with ground beef or turkey in a savory sauce, served on a bun.",
+    "side": "Side: Baked sweet potato fries or a side salad.",
+    "protein": "Protein: Ground beef/turkey."
+  },
+  {
+    "day": "Thursday",
+    "title": "Veggie Stir-Fry with Tofu/Chicken",
+    "description": "A colorful stir-fry with tofu, bell peppers, broccoli, carrots, and snap peas. Toss in a soy-based sauce.",
+    "side": "Side: Steamed jasmine rice.",
+    "protein": "Protein: Tofu (or chicken for non-vegetarian option)."
+  },
+  {
+    "day": "Friday",
+    "title": "Fish Tacos (or Shrimp)",
+    "description": "Crispy or grilled fish fillets (like cod) with shredded cabbage, pico de gallo, and a creamy sauce.",
+    "side": "Side: Cilantro-lime rice and black beans.",
+    "protein": "Protein: Fish or shrimp."
+  },
+  {
+    "day": "Saturday",
+    "title": "Homemade Burgers with Baked Fries",
+    "description": "Grilled beef or turkey burgers with all the fixings (cheese, lettuce, tomato, pickles).",
+    "side": "Side: Baked fries or a side salad.",
+    "protein": "Protein: Beef or turkey burgers."
+  },
+  {
+    "day": "Sunday",
+    "title": "Beef Bottom Round Roast and Veggie Slow Cooker",
+    "description": "Roast whole chicken with carrots, potatoes, and onions, seasoned with herbs.",
+    "side": "Side: A fresh green salad or roasted Brussels sprouts.",
+    "protein": "Protein: Chicken."
+  }
+]
+
